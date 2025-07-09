@@ -1,6 +1,7 @@
 # BarberShop - Landing Page
 
-![project-image](assets/readme_images/web1.png)
+![project-video](assets/readme_images/web-video.gif)
+![project-video](assets/readme_images/mobile-video.gif)
 
 O **BarberShop - Landing Page**  é uma aplicação de nível profissional desenvolvida para apresentar de forma elegante e responsiva os serviços de uma barbearia moderna. Construída com HTML, SCSS e animações utilizando a biblioteca AOS (Animate On Scroll), a página destaca o diferencial da barbearia com um design limpo, seções bem definidas para exibir informações como serviços oferecidos e formas de contato. A proposta é oferecer uma experiência visual envolvente que ajude a atrair novos clientes, transmitindo confiança, tradição e modernidade, além de facilitar o agendamento de horários de forma prática e intuitiva.
 
